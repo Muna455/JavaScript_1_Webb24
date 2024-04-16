@@ -1,0 +1,12 @@
+body* {
+   border-width: 1%;
+  border-color: green;
+   border-style:solid ;
+}
+
+h1{
+    text-align: justify;
+    color: white;
+    
+}
+
